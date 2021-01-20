@@ -1,9 +1,8 @@
 +++
 title = "The Dangers Behind OAuth"
-date = "1986-09-17"
-author = "Elliot"
-cover = "img/hello.jpg"
-description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
+date = "2020-01-20"
+author = "Tentacles"
+description = "Here's how to handle authentication in your next app."
 +++
 
 At first sight, OAuth is great: you can defer the worries of storing passwords to another website, making it a prime target for novice and experienced web developers alike. But it's not all good.
@@ -26,5 +25,5 @@ While handling authentication does carry its own level of complexity, it's *ever
 
 In your next app, consider using something like Passport instead of relying on centralised structures like Twitter, Facebook or Google to handle your authentication.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3ODAyMzgyXX0=
+eyJoaXN0b3J5IjpbLTIzMzQ4OTI5Miw4NDc4MDIzODJdfQ==
 -->
