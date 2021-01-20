@@ -12,7 +12,11 @@ While OAuth *does* somewhat improve security, by removing the burden of managing
 
 By giving an external company control over your authentication flow, you're putting a substantial amount of power in their hands. For starters, if a user's account were to be removed, they would also lose access to your service. Another example is data control; neither you, or your users, actually *own* the authentication flow. 
 
-This means you have to entirely trust your OAuth provider. The skeptics in us would call this an *impossible goal*. If you don't own the server, you can't trust it.
+This means you have to entirely trust your OAuth provider. The skeptics in us would call this an *impossible goal*. If you don't own the server, you can't trust it. You don't *know* what's happening "behind the scenes".
+
+> “Trust yourself, you know more than you think you do.” – Benjamin Spock
+
+So, if we can't trus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTk3MDQ2MF19
+eyJoaXN0b3J5IjpbMTIwOTY5OTI0NF19
 -->
