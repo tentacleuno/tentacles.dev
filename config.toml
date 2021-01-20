@@ -27,10 +27,10 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
-    keywords = ""
-    copyright = ""
+    title = "Tentacles"
+    subtitle = "Eating the world; one squid, post and package at a time."
+    keywords = "privacy,technology,security"
+    copyright = "Tentacles 2021"
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read more"
@@ -44,7 +44,7 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "tentacles.dev"
       logoHomeLink = "/"
     # or
     #
@@ -56,7 +56,3 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
