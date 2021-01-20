@@ -20,7 +20,7 @@ So, if we can't trust server providers, who *can* we trust?
 
 **Ourselves**.
 
-While handling authentication does carry its own level of complexity, it's *everywhere*. Instead of rolling your own layer, 
+While handling authentication does carry its own level of complexity, it's *everywhere*. Instead of rolling your own layer, you'd be better off choosing a good open-source projectl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTY0NDQxNl19
+eyJoaXN0b3J5IjpbLTEyNjAzODk4MTNdfQ==
 -->
