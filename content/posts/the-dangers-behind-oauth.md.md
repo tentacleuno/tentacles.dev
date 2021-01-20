@@ -22,7 +22,9 @@ So, if we can't trust server providers, who *can* we trust?
 
 While handling authentication does carry its own level of complexity, it's *everywhere*. Instead of rolling your own layer, you'd be better off choosing a good open-source project like [Passport](http://www.passportjs.org/), which probably handles everything you need, *and* has already been subject to audits.
 
-In your next app, consider using something like Passport instead of relying on centralised structures like Twitter, Facebook or Google
+---
+
+In your next app, consider using something like Passport instead of relying on centralised structures like Twitter, Facebook or Google to handle your authentication.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTkyNjU5MTldfQ==
+eyJoaXN0b3J5IjpbODQ3ODAyMzgyXX0=
 -->
