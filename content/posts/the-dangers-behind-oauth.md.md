@@ -16,7 +16,11 @@ This means you have to entirely trust your OAuth provider. The skeptics in us wo
 
 > “Trust yourself, you know more than you think you do.” – Benjamin Spock
 
-So, if we can't trus
+So, if we can't trust server providers, who *can* we trust?
+
+**Ourselves**.
+
+While handling authentication does carry its own level of complexity, it's *everywhere*. Instead of rolling your own layer, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTY5OTI0NF19
+eyJoaXN0b3J5IjpbMTQwMTY0NDQxNl19
 -->
