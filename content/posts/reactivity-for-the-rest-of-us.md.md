@@ -111,7 +111,8 @@ Can you see the similarities? You could say an Observable is a lazily-evaluated 
 
 
 
+
 -  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDc2OTE0Nyw5NjIxOTgwOTBdfQ==
+eyJoaXN0b3J5IjpbLTEyNzg3MDYwMzUsOTYyMTk4MDkwXX0=
 -->
