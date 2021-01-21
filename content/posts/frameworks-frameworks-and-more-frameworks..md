@@ -12,9 +12,9 @@ After years of development, testing, hacking and developing specifications, we h
 
 However, critics of the web industry commonly label this as a *disadvantage* of the web. **Do we have too many frameworks?**
 
-T
+To answer this, we're going to need to go back in time. The year is 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzkwMzg2XX0=
+eyJoaXN0b3J5IjpbLTEyOTEwMzU1MThdfQ==
 -->
