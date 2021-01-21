@@ -70,7 +70,16 @@ We've been moving pretty quickly, so let's step back into an abstract overview: 
 
 - Attach an event listener to our button's 'click' event,
 - Call the subscriber's `next` method when a 'click' event is fired
+- Log the event from our `next` method
+
+So, you might be thinking: **what's the point of this?** Well, to answer your question, Observables are *composable* to demonstrate what I mean, let's take a look at the following example:
+
+```ts
+import { Observable } from 'r
+```
+
+
 -  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyMTk4MDkwXX0=
+eyJoaXN0b3J5IjpbMTg4Nzk3NDk0Nyw5NjIxOTgwOTBdfQ==
 -->
