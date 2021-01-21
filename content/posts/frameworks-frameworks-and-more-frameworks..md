@@ -12,9 +12,13 @@ After years of development, testing, hacking and developing specifications, we h
 
 However, critics of the web industry commonly label this as a *disadvantage* of the web. **Do we have too many frameworks?**
 
-To answer this, we're going to need to go back in time. The year is 2019. Trisha Gee gives a [talk at Google](https://youtube.com/watch?v=zV079g7Irks): Trisha Gee: Reading Code Is Harder Than Writing It
+To answer that, we're going to need to understand developers. Trisha Gee gave a [talk at Google](https://youtube.com/watch?v=zV079g7Irks): *"Trisha Gee: Reading Code Is Harder Than Writing It"*.
+
+
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NzA3MzMwN119
+eyJoaXN0b3J5IjpbLTczNjkyNzIwNV19
 -->
