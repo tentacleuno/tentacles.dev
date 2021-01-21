@@ -6,13 +6,15 @@ description = "Are we wasting our time?"
 draft = "true"
 +++
 
-After years of development, testing, hacking and developing specifications, we have numerous frameworks for the web. React, Angular, Vue, Aurelia, and thousands more.
+After years of development, testing, hacking and developing specifications, we have numerous frameworks for the web. React, Angular, Vue, Aurelia, and thousands more have a well-earned seat of respect in the web development community.
 
 **Choice is good.** The advantage of choice is that, if you don't like React, you can instead switch your codebase to Vue or Angular.
 
-However, critics of the web industry commonly label this as a *disadvantage* of the web. The question has been raised multi
+However, critics of the web industry commonly label this as a *disadvantage* of the web. **Do we have too many frameworks?**
+
+T
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5NjQ3MjY3XX0=
+eyJoaXN0b3J5IjpbLTMxNzkwMzg2XX0=
 -->
