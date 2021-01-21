@@ -72,7 +72,7 @@ We've been moving pretty quickly, so let's step back into an abstract overview: 
 - Call the subscriber's `next` method when a 'click' event is fired
 - Log the event from our `next` method
 
-So, you might be thinking: **what's the point of this?** Well, to answer your question, Observables are *composable* to demonstrate what I mean, let's take a look at the following example:
+So, you might be thinking: **what's the point of this?** Well, to answer your question, Observables are *composable*. To demonstrate what I mean, let's take a look at the following example:
 
 ```ts
 import { Observable } from 'rxjs';
@@ -95,7 +95,9 @@ number$.pipe(
 
 
 
+
+
 -  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1NjE1OTczLDk2MjE5ODA5MF19
+eyJoaXN0b3J5IjpbODU5MTA0NzA3LDk2MjE5ODA5MF19
 -->
