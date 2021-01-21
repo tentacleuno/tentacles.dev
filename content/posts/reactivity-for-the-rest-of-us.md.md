@@ -12,7 +12,7 @@ Ever heard of [RxJS](https://rxjs.dev)? It's a library for creating *observables
 
 If you've ever worked with the DOM API's, there's a good chance you've used this fundamental feature. As these events *react* to user input, we say they have *'reactivity'*.
 
-> Note: while it's true that some apps don't respond to user-input, reactivity can still play a crucial role in your cod
+> Note: while it's true that some apps don't respond to user-input, reactivity can still play a crucial role in your code.
 
 But DOM API's aren't the only way to fire / handle events in JavaScript. You could also use something like Node's `EventEmitter`, or the browser's `EventTarget` interface. There are tons of options, and RxJS is one of them.
 
@@ -95,7 +95,10 @@ number$.pipe(
 });
 ```
 
+To explain *composability*, let's think of arrays: you take an array and iterate over it. Let's replicate the above code using arrays.
 
+```ts
+const array = [1, 2, 3];
 
 
 
@@ -103,5 +106,5 @@ number$.pipe(
 
 -  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5NTA3OTkyLDk2MjE5ODA5MF19
+eyJoaXN0b3J5IjpbLTY0MTkzMDk1MCw5NjIxOTgwOTBdfQ==
 -->
