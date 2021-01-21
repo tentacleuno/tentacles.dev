@@ -75,11 +75,25 @@ We've been moving pretty quickly, so let's step back into an abstract overview: 
 So, you might be thinking: **what's the point of this?** Well, to answer your question, Observables are *composable* to demonstrate what I mean, let's take a look at the following example:
 
 ```ts
-import { Observable } from 'r
+import { Observable } from 'rxjs';
+import { map } from 'rxjs/operators';
+
+export const number$ = new Observable(subscriber => {
+  subscriber.next(1);
+  subscriber.next(2);
+  subscriber.next(3);
+});
+
+number$.pipe(
+  map(number => number * 2)
+).subscribe({
+  next
+
 ```
+
 
 
 -  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Nzk3NDk0Nyw5NjIxOTgwOTBdfQ==
+eyJoaXN0b3J5IjpbLTExNjkwMTEzNzEsOTYyMTk4MDkwXX0=
 -->
