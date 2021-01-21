@@ -95,10 +95,17 @@ number$.pipe(
 });
 ```
 
-To explain *composability*, let's think of arrays: you take an array and iterate over it. Let's replicate the above code using arrays.
+To explain *composability*, let's think of arrays: you take an array and iterate over it. Let's do the same thing as above, but using arrays.
 
 ```ts
 const array = [1, 2, 3];
+
+array
+  .map(number => number *2)
+  .forEach(number => console.log(number));
+```
+
+Can you see the similarities? You could say an Observable is a laz
 
 
 
@@ -106,5 +113,5 @@ const array = [1, 2, 3];
 
 -  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTkzMDk1MCw5NjIxOTgwOTBdfQ==
+eyJoaXN0b3J5IjpbMTQ1NDQyMDYwMiw5NjIxOTgwOTBdfQ==
 -->
