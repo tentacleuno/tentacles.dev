@@ -12,6 +12,8 @@ Ever heard of [RxJS](https://rxjs.dev)? It's a library for creating *observables
 
 If you've ever worked with the DOM API's, there's a good chance you've used this fundamental feature. As these events *react* to user input, we say they have *'reactivity'*.
 
+> Note: while it's true that some apps don't respond to user-input, reactivity can still play a crucial role in your cod
+
 But DOM API's aren't the only way to fire / handle events in JavaScript. You could also use something like Node's `EventEmitter`, or the browser's `EventTarget` interface. There are tons of options, and RxJS is one of them.
 
 **So, how does RxJS work?** RxJS is an implementation of *observables*, which are a bit like an `EventEmitter`, *except one 'Observable' handles one event, unlike the DOM / Node API's, where an event emitter handles thousands of events.
@@ -47,6 +49,8 @@ const click$ = new Observable(subscriber => {
 ```
 
 You've probably assumed the callback passed to `Observable(...)` is called immediately. **You'd be wrong.**
+
+> This is also known as *lazy execution*.
 
 Until we actually *use* the observable, no event handlers are added to the button. So, how do we *use* an observable? **Easy.** Let's keep using the same code, and modify it a bit.
 
@@ -99,5 +103,5 @@ number$.pipe(
 
 -  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5MTA0NzA3LDk2MjE5ODA5MF19
+eyJoaXN0b3J5IjpbMzg5NTA3OTkyLDk2MjE5ODA5MF19
 -->
