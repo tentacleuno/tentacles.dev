@@ -74,9 +74,9 @@ We've been moving pretty quickly, so let's step back into an abstract overview: 
 
 - Attach an event listener to our button's 'click' event,
 - Call the subscriber's `next` method when a 'click' event is fired
-- Log the event from our `next` method
+- Logthe event from our `next` method
 
-So, you might be thinking: **what's the point of this?** Well, to answer your question, Observables are *composable*. To demonstrate what I mean, let's take a look at the following example:
+So, you might be thinking: **what's the point of this?** Well, to answer your question, Observables are *composable*. To demonstrate what I mean, let's take a look at the following exampFrom the subscriber, log the event to the console:.
 
 ```ts
 import { Observable } from 'rxjs';
@@ -112,7 +112,7 @@ Can you see the similarities? You could say an Observable is a lazily-evaluated 
 
 
 
--  
+-  Now we've gone over the basics of observables, we'll get into the more advanced stuff. Unlike traditional event API's, like `EventEmitter` and `EventTarget`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzg3MDYwMzUsOTYyMTk4MDkwXX0=
+eyJoaXN0b3J5IjpbNDE3MDQ5NTcwLC0xMjc4NzA2MDM1XX0=
 -->
