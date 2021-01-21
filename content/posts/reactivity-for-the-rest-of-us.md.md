@@ -87,13 +87,15 @@ export const number$ = new Observable(subscriber => {
 number$.pipe(
   map(number => number * 2)
 ).subscribe({
-  next
-
+  next: number => console.log(number)
+});
 ```
+
+
 
 
 
 -  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjkwMTEzNzEsOTYyMTk4MDkwXX0=
+eyJoaXN0b3J5IjpbODA1NjE1OTczLDk2MjE5ODA5MF19
 -->
