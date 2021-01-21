@@ -105,7 +105,7 @@ array
   .forEach(number => console.log(number));
 ```
 
-Can you see the similarities? You could say an Observable is a laz
+Can you see the similarities? You could say an Observable is a lazily-evaluated array.
 
 
 
@@ -113,5 +113,5 @@ Can you see the similarities? You could say an Observable is a laz
 
 -  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDQyMDYwMiw5NjIxOTgwOTBdfQ==
+eyJoaXN0b3J5IjpbMTEwNDc2OTE0Nyw5NjIxOTgwOTBdfQ==
 -->
