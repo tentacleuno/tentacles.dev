@@ -111,13 +111,14 @@ The beauty of composability means you can do virtually anything with observables
 
 > You could say an Observable is an array, but you don't get all the values at once.
 
-Now it's all beginning to make sense...
+At the heart of observables is the `pipe` function. Rxaaj
 
+Observables compile asynchronous events, composability and declarative programming into one box. It's nice. **Get inside the box.**
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ2NjQ2NjUsNDE3MDQ5NTcwLC0xMj
-c4NzA2MDM1XX0=
+eyJoaXN0b3J5IjpbLTUwMDI4NTI0Nyw0MTcwNDk1NzAsLTEyNz
+g3MDYwMzVdfQ==
 -->
