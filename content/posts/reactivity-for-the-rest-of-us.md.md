@@ -120,7 +120,13 @@ At the heart of observables is the `pipe` function. RxJS works through *operator
 > )
 > ```
 
-The `map` function is an operator. When you use `pipe` (and then subscribe), the observable of numbers is passed in, and an observable with the values passed through the function is returned.
+The `map` function is an operator. When you use `pipe` (and then subscribe), the observable of numbers is passed in, and an observable with the values passed through the function is returned. **Let's implement `map` ourselves.**
+
+```js
+const map = (sourceObservable) 
+```
+
+---
 
 Observables compile asynchronous events, composability and declarative programming into one box. It's nice. **Get inside the box.**
 
@@ -128,6 +134,6 @@ Observables compile asynchronous events, composability and declarative programmi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM0ODMxODcsNDE3MDQ5NTcwLC0xMj
+eyJoaXN0b3J5IjpbLTEyMjY0OTcxMTAsNDE3MDQ5NTcwLC0xMj
 c4NzA2MDM1XX0=
 -->
