@@ -10,8 +10,15 @@ There's nothing quite like the feeling of releasing a new major version of your 
 
 Then, the problem: **deprecation*. The old version included a hard-to-use, overcomplicated API. In retrospect, you were rushing to release the first version, so you glossed over it.
 
+So, how *do* we deprecate an API? Should you...
+
+- Remove the API immediately? #DontCare
+- Replace the API with a stub that throws a runtime error?
+- Log a warning to the console upon invocation?
+
+This all depends on how your application is rel
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzEzMDc5OF19
+eyJoaXN0b3J5IjpbLTE0MjU3MjI2NTZdfQ==
 -->
