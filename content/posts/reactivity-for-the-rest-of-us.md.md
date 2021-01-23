@@ -111,7 +111,15 @@ The beauty of composability means you can do virtually anything with observables
 
 > You could say an Observable is an array, but you don't get all the values at once.
 
-At the heart of observables is the `pipe` function. Rxaaj
+At the heart of observables is the `pipe` function. RxJS works through *operators*, which are called with an observable, and return an observable.
+
+> ```ts
+> number$.pipe(
+  map(number => number * 2)
+)
+> ```
+
+The `map` function is an operator. When you use `pipe` (and then subscribe), the observable of numbers is passed in 
 
 Observables compile asynchronous events, composability and declarative programming into one box. It's nice. **Get inside the box.**
 
@@ -119,6 +127,6 @@ Observables compile asynchronous events, composability and declarative programmi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDI4NTI0Nyw0MTcwNDk1NzAsLTEyNz
-g3MDYwMzVdfQ==
+eyJoaXN0b3J5IjpbOTMxMDkwODQ1LDQxNzA0OTU3MCwtMTI3OD
+cwNjAzNV19
 -->
