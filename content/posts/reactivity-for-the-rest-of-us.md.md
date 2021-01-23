@@ -133,12 +133,17 @@ const map = (thru) => {
   return (sourceObservable) => {
     return new Observable(subscriber => {
       sourceObservable.subscribe({
-        error:/
+        // Some details have been glossed over for brevity.
+        
+        // This is where the mapping happens!
+        next: (value) => subscriber.next(thru(value))
       });
     });
   }
 };
 ```
+
+
 
 ---
 
@@ -148,6 +153,6 @@ Observables compile asynchronous events, composability and declarative programmi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1NDEyOTc2LDQxNzA0OTU3MCwtMTI3OD
-cwNjAzNV19
+eyJoaXN0b3J5IjpbLTY1NDgxNzIyMyw0MTcwNDk1NzAsLTEyNz
+g3MDYwMzVdfQ==
 -->
