@@ -3,7 +3,6 @@ title = "Deprecation Done Right"
 date = "2020-01-23"
 author = "Tentacles"
 description = "The elegance of annoyance."
-draft = "true"
 +++
 
 There's nothing quite like the feeling of releasing a new major version of your library. Ahh, that new package smell.
@@ -28,21 +27,22 @@ Anyway, the way I do it in JavaScript is with a little function. Start small:
 
 ```js
 function deprecate (func, replacement, funcName = func.name) {
-  const message = `${funcName} is deprecated.${replacement ? ` Please use ${replacement} instead.` : ''}`;
+  const message = `${funcName} is deprecated!${replacement ? ` Please use ${replacement} instead.` : ''}`;
   let isFirstInvocation = true;
   return function (...args) {
      if (isFirstInvocation) {
-       console.log(message);
+       console.warn(message);
        isFirstInvocation = false;
      }
      
-     
+     return func.apply(this, args);
    }
 }
 ```
 
+That's the whole thing. Basically, on the first invocation of the function, we log a deprecation message to the console. After that, no warning is printed. This means the developer console won't be bombarded with deprecation warnings.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTU4NTU3Nl19
+eyJoaXN0b3J5IjpbLTE5MTI5MDkzMTNdfQ==
 -->
