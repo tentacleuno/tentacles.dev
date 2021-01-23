@@ -151,7 +151,11 @@ Sometimes,
 
 ## Is it for you?
 
-*Make sure RxJS fits your project.* If it doesn't, you'd be better off without it. RxJS is useful for composable streams of data, especially ones with no fixed length, such as AP
+*Make sure RxJS fits your project.* If it doesn't, you'd be better off without it. RxJS is useful for composable streams of data, especially ones with no fixed length, such as API's. 
+
+## Push me, Pull me!
+
+RxJS features a *push* system, where the source of events dispatch events themselves (think `subscriber.next`). Unlike other systems like iterators, where the consumer 
 
 ---
 
@@ -161,6 +165,6 @@ Observables compile asynchronous events, composability and declarative programmi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDU2ODIwOSw0MTcwNDk1NzAsLTEyNz
-g3MDYwMzVdfQ==
+eyJoaXN0b3J5IjpbLTIwNzk5Mjk3MTQsNDE3MDQ5NTcwLC0xMj
+c4NzA2MDM1XX0=
 -->
