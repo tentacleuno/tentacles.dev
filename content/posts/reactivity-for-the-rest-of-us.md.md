@@ -8,6 +8,8 @@ draft = "true"
 
 Ever heard of [RxJS](https://rxjs.dev)? It's a library for creating *observables*, which are a bit like `Promise`s, except they can change over time.
 
+## Reactivity
+
 **What does 'reactivity' mean?** Let's break it down: most applications respond to user input via event handlers like `onclick` or `onscroll`. When the user scrolls (or clicks) the respective event is fired, and the application does something in response. That could be loading more items in an infinite feed, or creating a new blog entry.
 
 If you've ever worked with the DOM API's, there's a good chance you've used this fundamental feature. As these events *react* to user input, we say they have *'reactivity'*.
@@ -74,7 +76,9 @@ We've been moving pretty quickly, so let's step back into an abstract overview: 
 
 - Attach an event listener to our button's 'click' event,
 - Call the subscriber's `next` method when a 'click' event is fired
-- Logthe event from our `next` method
+- Log the event from our `next` method
+
+## Composability
 
 So, you might be thinking: **what's the point of this?** Well, to answer your question, Observables are *composable*. To demonstrate what I mean, let's take a look at the following exampFrom the subscriber, log the event to the console:.
 
@@ -127,7 +131,11 @@ The `map` function is an operator. When you use `pipe` (and then subscribe), the
 ```js
 const map = (thru) => {
   return (sourceObservable) => {
-    
+    return new Observable(subscriber => {
+      sourceObservable.subscribe({
+        error:/
+      });
+    });
   }
 };
 ```
@@ -140,6 +148,6 @@ Observables compile asynchronous events, composability and declarative programmi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzUxMjM5OTIsNDE3MDQ5NTcwLC0xMj
-c4NzA2MDM1XX0=
+eyJoaXN0b3J5IjpbOTA1NDEyOTc2LDQxNzA0OTU3MCwtMTI3OD
+cwNjAzNV19
 -->
