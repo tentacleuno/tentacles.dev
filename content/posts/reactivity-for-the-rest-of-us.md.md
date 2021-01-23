@@ -143,7 +143,7 @@ const map = (thru) => {
 };
 ```
 
-
+This was very simple to simple to implement. And, excluding a few other cases, [this is basically what the RxJS-native `map` does](https://github.com/ReactiveX/rxjs/blob/7bbd37f53397193cf1371b93c1f93b18c071474f/src/internal/operators/map.ts#L53).
 
 ---
 
@@ -153,6 +153,6 @@ Observables compile asynchronous events, composability and declarative programmi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDgxNzIyMyw0MTcwNDk1NzAsLTEyNz
+eyJoaXN0b3J5IjpbMTk4MzE4MDgwNCw0MTcwNDk1NzAsLTEyNz
 g3MDYwMzVdfQ==
 -->
