@@ -159,7 +159,7 @@ RxJS features a *push* system, where the source of events dispatch events themse
 
 In most cases, this simplifies the dispatching of events. 
 
-However, unlike iterators or generators, you cannot 
+However, unlike iterators or generators, you cannot send data from your listener to your observable. This can make some things harder to reason about (add examples here).
 
 ---
 
@@ -169,6 +169,6 @@ Observables compile asynchronous events, composability and declarative programmi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjAwMjY2MCw0MTcwNDk1NzAsLTEyNz
+eyJoaXN0b3J5IjpbLTMyMzQ5NTU3Niw0MTcwNDk1NzAsLTEyNz
 g3MDYwMzVdfQ==
 -->
