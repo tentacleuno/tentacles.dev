@@ -145,6 +145,14 @@ const map = (thru) => {
 
 This was very simple to simple to implement. And, excluding a few other cases, [this is basically what the RxJS-native `map` does](https://github.com/ReactiveX/rxjs/blob/7bbd37f53397193cf1371b93c1f93b18c071474f/src/internal/operators/map.ts#L53).
 
+## Performance
+
+Sometimes, 
+
+## Is it for you?
+
+*Make sure RxJS fits your project.* If it doesn't, you'd be better off without it. RxJS is useful for composable streams of data, especially ones with no fixed length, such as AP
+
 ---
 
 Observables compile asynchronous events, composability and declarative programming into one box. It's nice. **Get inside the box.**
@@ -153,6 +161,6 @@ Observables compile asynchronous events, composability and declarative programmi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzE4MDgwNCw0MTcwNDk1NzAsLTEyNz
+eyJoaXN0b3J5IjpbLTQ2NDU2ODIwOSw0MTcwNDk1NzAsLTEyNz
 g3MDYwMzVdfQ==
 -->
