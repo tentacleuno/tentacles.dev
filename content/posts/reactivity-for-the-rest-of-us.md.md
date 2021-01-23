@@ -107,13 +107,10 @@ array
 
 Can you see the similarities? You could say an Observable is an array, but you don't get all the values at once. Plus, there's no fixed length.
 
+The beauty of composability means you can do virtually anything with observables. You can filter, map, reduce, and find values.
 
-
-
-
-
--  Now we've gone over the basics of observables, we'll get into the more advanced stuff. Unlike traditional event API's, like `EventEmitter` and `EventTarget`, you can declaratively 'pipe' values from your observable into functions.
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzAzOTQ5NDMsNDE3MDQ5NTcwLC0xMj
-c4NzA2MDM1XX0=
+eyJoaXN0b3J5IjpbMTQxMjYxMjIwNiw0MTcwNDk1NzAsLTEyNz
+g3MDYwMzVdfQ==
 -->
