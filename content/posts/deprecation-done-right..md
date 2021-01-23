@@ -27,15 +27,16 @@ So, to answer the main question, you need to decide *how* to manage deprecation 
 Anyway, the way I do it in JavaScript is with a little function. Start small:
 
 ```js
-function deprecate (func) {
- return function (...args) {
-  
+function deprecate (func, replacement, funcName = func.name) {
+  const message = `${funcName} is deprecated. `;
+  return function (...args) {
+     console.log(`${funcName} is deprecated. `);
    }
 }
-
+```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTc2ODM4OV19
+eyJoaXN0b3J5IjpbODkyMDgzMTU3XX0=
 -->
