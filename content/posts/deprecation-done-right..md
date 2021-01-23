@@ -18,9 +18,11 @@ So, how *do* we deprecate an API? Should you...
 
 This all depends on how your application is released. Some libraries like React gradually deprecate functions, by incrementally adding warnings, stubs, and fake return values (after 2 releases). 
 
-If your package is geared around a stable API, you probably shouldn't immediately drop an API. In some cases, the best way to remove an API is to 
+If your package is geared around a stable API, you probably shouldn't immediately drop an API. In some cases, the best way to remove an API is to leave it in.
+
+Another method would be to change the *naming scheme* of deprecated functions. In React, most unstable / outdated API names are prefixed with `UNSAFE_`. This gives consumers a friendly warning that they probably shouldn't be using this API!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDMyMDUxMF19
+eyJoaXN0b3J5IjpbLTYzMDA3NjM0NF19
 -->
