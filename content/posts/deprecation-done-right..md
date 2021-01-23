@@ -28,9 +28,15 @@ Anyway, the way I do it in JavaScript is with a little function. Start small:
 
 ```js
 function deprecate (func, replacement, funcName = func.name) {
-  const message = `${funcName} is deprecated. `;
+  const message = `${funcName} is deprecated.${replacement ? ` Please use ${replacement} instead.` : ''}`;
+  let isFirstInvocation = true;
   return function (...args) {
-     console.log(`${funcName} is deprecated. `);
+     if (isFirstInvocation) {
+       console.log(message);
+       isFirstInvocation = false;
+     }
+     
+     
    }
 }
 ```
@@ -38,5 +44,5 @@ function deprecate (func, replacement, funcName = func.name) {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMDgzMTU3XX0=
+eyJoaXN0b3J5IjpbMTE5MTU4NTU3Nl19
 -->
