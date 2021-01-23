@@ -109,8 +109,15 @@ Can you see the similarities? You could say an Observable is an array, but you d
 
 The beauty of composability means you can do virtually anything with observables. You can filter, map, reduce, and find values.
 
-> 
+> You could say an Observable is an array, but you don't get all the values at once.
+
+Now it's all beginning to make sense...
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjYxMjIwNiw0MTcwNDk1NzAsLTEyNz
-g3MDYwMzVdfQ==
+eyJoaXN0b3J5IjpbLTIwNTQ2NjQ2NjUsNDE3MDQ5NTcwLC0xMj
+c4NzA2MDM1XX0=
 -->
