@@ -105,14 +105,15 @@ array
   .forEach(number => console.log(number));
 ```
 
-Can you see the similarities? You could say an Observable is a lazily-evaluated array.
+Can you see the similarities? You could say an Observable is an array, but you don't get all the values at once. Plus, there's no fixed length.
 
 
 
 
 
 
--  Now we've gone over the basics of observables, we'll get into the more advanced stuff. Unlike traditional event API's, like `EventEmitter` and `EventTarget`
+-  Now we've gone over the basics of observables, we'll get into the more advanced stuff. Unlike traditional event API's, like `EventEmitter` and `EventTarget`, you can declaratively 'pipe' values from your observable into functions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3MDQ5NTcwLC0xMjc4NzA2MDM1XX0=
+eyJoaXN0b3J5IjpbLTEyMzAzOTQ5NDMsNDE3MDQ5NTcwLC0xMj
+c4NzA2MDM1XX0=
 -->
