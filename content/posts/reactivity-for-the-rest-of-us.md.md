@@ -155,7 +155,11 @@ Sometimes,
 
 ## Push me, Pull me!
 
-RxJS features a *push* system, where the source of events dispatch events themselves (think `subscriber.next`). Unlike other systems like iterators, where the consumer 
+RxJS features a *push* system, where the source of events dispatch events themselves (think `subscriber.next`). Unlike other systems like iterators, where the consumer has to call `next` to get an event, your observable does. 
+
+In most cases, this simplifies the dispatching of events. 
+
+However, unlike iterators or generators, you cannot 
 
 ---
 
@@ -165,6 +169,6 @@ Observables compile asynchronous events, composability and declarative programmi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzk5Mjk3MTQsNDE3MDQ5NTcwLC0xMj
-c4NzA2MDM1XX0=
+eyJoaXN0b3J5IjpbLTgzMjAwMjY2MCw0MTcwNDk1NzAsLTEyNz
+g3MDYwMzVdfQ==
 -->
