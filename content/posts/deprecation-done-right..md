@@ -22,11 +22,20 @@ If your package is geared around a stable API, you probably shouldn't immediatel
 
 Another method would be to change the *naming scheme* of deprecated functions. In React, most unstable / outdated API names are prefixed with `UNSAFE_`. This gives consumers a friendly warning that they probably shouldn't be using this API!
 
-So, to answer the main question, you need to decide *how* to manage deprecation for your library. If it's a high-profile FOSS project, you'll most likely want to gradually deprecate functions. This leads to less support calls!
+So, to answer the main question, you need to decide *how* to manage deprecation for your library. If it's a high-profile FOSS project, you'll most likely want to gradually deprecate functions. This leads to less issues (I mean that in both the literal and Git-forge sense).
+
+Anyway, the way I do it in JavaScript is with a little function. Start small:
+
+```js
+function deprecate (func) {
+ return function (...args) {
+  
+   }
+}
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTYzNTExOF19
+eyJoaXN0b3J5IjpbLTEwOTc2ODM4OV19
 -->
