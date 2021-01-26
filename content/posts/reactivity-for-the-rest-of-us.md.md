@@ -147,7 +147,7 @@ This was very simple to simple to implement. And, excluding a few other cases, [
 
 ## Performance
 
-Sometimes, 
+In some cases, you might experience performance problems when using this pattern. For example, 
 
 ## Is it for you?
 
@@ -169,6 +169,6 @@ Observables compile asynchronous events, composability and declarative programmi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzQ5NTU3Niw0MTcwNDk1NzAsLTEyNz
-g3MDYwMzVdfQ==
+eyJoaXN0b3J5IjpbLTEwNjI3NjE2NzcsLTMyMzQ5NTU3Niw0MT
+cwNDk1NzAsLTEyNzg3MDYwMzVdfQ==
 -->
