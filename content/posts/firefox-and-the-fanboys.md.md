@@ -3,7 +3,6 @@ title = "Firefox and the Fanboys"
 date = "2020-01-26"
 author = "Tentacles"
 description = "Firefox can do no wrong."
-draft = "true"
 +++
 
 
@@ -15,12 +14,11 @@ This culture is sadly (and somewhat unexpectedly) inherent on Hacker News, a pla
 
 ![](https://i.imgur.com/MVxrCdA.png)
 
-And people don't like that.
+And people *really* don't like that.
 
-Over time, more and more people are jumping to defend Firefox. People seem to assume that it's the pinnacle of open-source development, and it can do absolutely no wrong. This has emerged on various forums like 
+Over time, more and more people are jumping to defend Firefox. People seem to assume that it's the pinnacle of open-source development, and it can do absolutely no wrong. I really hope we move past this elitist mindset. If the community continues to constantly agree with Firefox in spite of the facts, while also ranting about 'the way things used to be', Mozilla won't be listening any time soon.
 
-
-> Written with [StackEdit](https://stackedit.io/).
+Sorry.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDM1MzcxMTEsMTQ0NjEwMjU1XX0=
+eyJoaXN0b3J5IjpbLTg3NDE3OTA5NiwxNDQ2MTAyNTVdfQ==
 -->
