@@ -15,10 +15,10 @@ This culture is sadly (and somewhat unexpectedly) inherent on Hacker News, a pla
 
 And people don't like that.
 
-
+Over time, more and more people are jumping to defend Firefox. People seem to assume that it's the pinnacle of open-source development, and it can do absolutely no wrong. This has emerged on various forums like 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjI5NjI4XX0=
+eyJoaXN0b3J5IjpbMTQ0NjEwMjU1XX0=
 -->
