@@ -10,7 +10,7 @@ Firefox has many fans. Some of them recognise that Firefox [has](https://www.red
 
 However, there are also a substantial amount of Firefox 'fanboys', who seek to defend the browser in any way, shape or means possible. This has created a culture of negativity and exclusion -- if you disagree with Firefox, these people will come after you.
 
-This culture is sadly (and somewhat unexpectedly) inherent on Hacker News, a platform where developers congregate to talk about specific topics. This could range from privacy to development. Sometimes, we talk about Firefox:
+This culture is sadly (and somewhat unexpectedly) inherent on Hacker News, a platform where developers congregate to talk about specific topics. This could range from privacy to development. Sometimes, [we talk about Firefox](https://reports.exodus-privacy.eu.org/en/reports/org.mozilla.firefox/latest/):
 
 ![](https://i.imgur.com/MVxrCdA.png)
 
@@ -20,5 +20,5 @@ Over time, more and more people are jumping to defend Firefox. People seem to as
 
 Sorry.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDE3OTA5NiwxNDQ2MTAyNTVdfQ==
+eyJoaXN0b3J5IjpbMTcxODU4NDEwNywxNDQ2MTAyNTVdfQ==
 -->
