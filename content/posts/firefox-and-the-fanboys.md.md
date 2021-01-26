@@ -7,7 +7,7 @@ draft = "true"
 +++
 
 
-Firefox has many fans. Some of them recognise that Firefox should *not* track people with closed-source tracking SDK's, while others spin fictitious tales to defend their favourite browser: the Fox.
+Firefox has many fans. Some of them recognise that Firefox [should](https://www.reddit.com/r/firefox/comments/jybx2w/uh_why_is_firefox_showing_me_sponsored_links_in/) *not* track people with closed-source tracking SDK's, while others spin fictitious tales to defend their favourite browser: the Fox.
 
 This culture is sadly (and somewhat unexpectedly) inherent on Hacker News, a platform where developers congregate to talk about specific topics. This could range from privacy to development. Sometimes, we talk about Firefox:
 
@@ -20,5 +20,5 @@ Over time, more and more people are jumping to defend Firefox. People seem to as
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjEwMjU1XX0=
+eyJoaXN0b3J5IjpbMTM4NzkyNDc5NiwxNDQ2MTAyNTVdfQ==
 -->
