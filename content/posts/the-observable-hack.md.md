@@ -16,8 +16,14 @@ function subscribe (observable, {
   error = nothing,
   complete = nothing
 }) {
-
-  observable({ next, error, complete });
+  let currentEvent;
+  let lastEvent;
+  
+  while (currentEvent = observable(lastEvent) {
+    if (currentEvent) {
+    
+   }
+  }
 }
   
   return 
@@ -27,6 +33,6 @@ function subscribe (observable, {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Njg3ODUwOSwtMTIwNDgyMzAxOCw2MD
+eyJoaXN0b3J5IjpbMTc1NTA4MjM2MywtMTIwNDgyMzAxOCw2MD
 M0NTIyMzAsLTYwNDY3ODAyNF19
 -->
