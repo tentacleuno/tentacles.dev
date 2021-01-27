@@ -6,9 +6,19 @@ description = "The elegance of annoyance."
 draft = "true"
 +++
 
-So... 
+So, observables. They're
+
+```js
+class Observable {
+  constructor (factory) {
+    this.factory = factory;
+  }
+  
+  subscribe (subscriber)/
+}
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzNDUyMjMwLC02MDQ2NzgwMjRdfQ==
+eyJoaXN0b3J5IjpbODU5Mzc0MzI1LDYwMzQ1MjIzMCwtNjA0Nj
+c4MDI0XX0=
 -->
