@@ -9,12 +9,20 @@ draft = "true"
 So, observables. They're
 
 ```js
-function nothing () {
+function nothing () {}
+
 function observable (factory) {
   return { factory };
 }
 
-function subscribe (observable$, { next, ) {
+function subscribe (observable$, { 
+  next = nothing,
+  error = nothing,
+  complete = nothing
+}) {
+  observable$.factory({ next, error, complete });
+  
+}
   
   return 
 }
@@ -23,6 +31,6 @@ function subscribe (observable$, { next, ) {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTE1Mzg3OTksLTEyMDQ4MjMwMTgsNj
+eyJoaXN0b3J5IjpbLTE3ODc1NTA4MDgsLTEyMDQ4MjMwMTgsNj
 AzNDUyMjMwLC02MDQ2NzgwMjRdfQ==
 -->
