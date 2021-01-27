@@ -11,21 +11,13 @@ So, observables. They're
 ```js
 function nothing () {}
 
-function observable (factory) {
-  return { factory };
-}
-
-function subscribe (observable$, { 
-  next: baseNext = nothing,
-  error: baseError = nothing,
-  complete: baseComplete = nothing
+function subscribe (observable, { 
+  next = nothing,
+  error = nothing,
+  complete = nothing
 }) {
-  
-  observable$.factory({ next, error, complete });
-  
-  return function () {
-    
-  }
+
+  observable({ next, error, complete });
 }
   
   return 
@@ -35,6 +27,6 @@ function subscribe (observable$, {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0OTUyNDEyLC0xMjA0ODIzMDE4LDYwMz
-Q1MjIzMCwtNjA0Njc4MDI0XX0=
+eyJoaXN0b3J5IjpbMTQ3Njg3ODUwOSwtMTIwNDgyMzAxOCw2MD
+M0NTIyMzAsLTYwNDY3ODAyNF19
 -->
