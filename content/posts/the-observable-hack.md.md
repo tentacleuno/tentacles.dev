@@ -9,16 +9,12 @@ draft = "true"
 So, observables. They're
 
 ```js
-class Observable {
-  constructor (factory) {
-    this.factory = factory;
-  }
-  
-  subscribe (subscriber)/
+function observable (factory) {
+  return 
 }
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5Mzc0MzI1LDYwMzQ1MjIzMCwtNjA0Nj
-c4MDI0XX0=
+eyJoaXN0b3J5IjpbLTE1NzUzMzA2MzksNjAzNDUyMjMwLC02MD
+Q2NzgwMjRdfQ==
 -->
