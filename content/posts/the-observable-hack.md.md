@@ -12,7 +12,16 @@ So, observables. They're
 function nothing () {}
 
 function Throw (error) {
-  return { type: 'error', 
+  return { type: 'error', error };
+ }
+ 
+ function Next (value) {
+   return { type: 'next', value };
+ }
+
+function Complete () {
+  return { type: 'complete' };
+}
 
 async function* subscribe (observable, { 
   next = nothing,
@@ -29,16 +38,16 @@ async function* subscribe (observable, {
       case 'complete': yield complete(); subscribed = false; break;
       case 'next': yield next(currentEvent.value); break;
    }
+   
+   lastEvent = currentEvent;
   }
 }
-  
-  return 
 }
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDI3ODY0NCwtMTIwNDgyMzAxOCw2MD
+eyJoaXN0b3J5IjpbMTc0OTE3NjYwMCwtMTIwNDgyMzAxOCw2MD
 M0NTIyMzAsLTYwNDY3ODAyNF19
 -->
