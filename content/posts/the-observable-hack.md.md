@@ -11,7 +11,11 @@ So, observables. They're
 ```js
 function nothing () {}
 
-async function subscribe (observable, { 
+function ERROR (error) {
+  this.error = error;
+}
+
+async function* subscribe (observable, { 
   next = nothing,
   error = nothing,
   complete = nothing
@@ -20,7 +24,9 @@ async function subscribe (observable, {
   let lastEvent;
   
   while (currentEvent = await observable(lastEvent)) {
-    switch (currentEvent) {}
+    switch (currentEvent.type) {
+      case 'error': yield 
+   }
   }
 }
   
@@ -31,6 +37,6 @@ async function subscribe (observable, {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQzMTc2MTMsLTEyMDQ4MjMwMTgsNj
-AzNDUyMjMwLC02MDQ2NzgwMjRdfQ==
+eyJoaXN0b3J5IjpbLTEwNDYxNzY3MywtMTIwNDgyMzAxOCw2MD
+M0NTIyMzAsLTYwNDY3ODAyNF19
 -->
