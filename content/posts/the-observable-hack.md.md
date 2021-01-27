@@ -14,11 +14,13 @@ function observable (factory) {
 }
 
 function subscribe (observable$) {
-  
+  return {};
 }
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ4MjMwMTgsNjAzNDUyMjMwLC02MD
-Q2NzgwMjRdfQ==
+eyJoaXN0b3J5IjpbLTI5NDkzMzYwNSwtMTIwNDgyMzAxOCw2MD
+M0NTIyMzAsLTYwNDY3ODAyNF19
 -->
