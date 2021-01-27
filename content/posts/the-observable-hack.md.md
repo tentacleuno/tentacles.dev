@@ -16,12 +16,16 @@ function observable (factory) {
 }
 
 function subscribe (observable$, { 
-  next = nothing,
-  error = nothing,
-  complete = nothing
+  next: baseNext = nothing,
+  error: baseError = nothing,
+  complete: baseComplete = nothing
 }) {
+  
   observable$.factory({ next, error, complete });
   
+  return function () {
+    
+  }
 }
   
   return 
@@ -31,6 +35,6 @@ function subscribe (observable$, {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc1NTA4MDgsLTEyMDQ4MjMwMTgsNj
-AzNDUyMjMwLC02MDQ2NzgwMjRdfQ==
+eyJoaXN0b3J5IjpbNDA0OTUyNDEyLC0xMjA0ODIzMDE4LDYwMz
+Q1MjIzMCwtNjA0Njc4MDI0XX0=
 -->
