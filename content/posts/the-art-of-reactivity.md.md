@@ -2,8 +2,8 @@
 draft = "true"
 +++
 
-> **This is part of a series I'm writing about RxJS, observables and reactivity.**
-> Consider starting at
+> **This is part 1 of a series I'm writing about RxJS, observables and reactivity.**
+> Consider starting at ["Reactivity For The Rest Of Us"](/posts/reactivity-for-the-rest-of-us.md).
 
 ## Reactivity
 
@@ -73,10 +73,14 @@ We've been moving pretty quickly, so let's step back into an abstract overview: 
 
 - Attach an event listener to our button's 'click' event,
 - Call the subscriber's `next` method when a 'click' event is fired
-- Log the event from our `next` method
+- Log the event from our `next` method.
+
+That was easy. Hopefully you've learnt that observables
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTcxMzYzNF19
+eyJoaXN0b3J5IjpbLTQ5ODA5ODM1OSwtNDc5NzEzNjM0XX0=
 -->
