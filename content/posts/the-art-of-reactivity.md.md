@@ -75,12 +75,12 @@ We've been moving pretty quickly, so let's step back into an abstract overview: 
 - Call the subscriber's `next` method when a 'click' event is fired
 - Log the event from our `next` method.
 
-That was easy. Hopefully you've learnt that observables
+That was easy. Hopefully you've learnt that observables aren't that hard, and you should try them out.
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODA5ODM1OSwtNDc5NzEzNjM0XX0=
+eyJoaXN0b3J5IjpbNjU1NDU2MDg4LC00Nzk3MTM2MzRdfQ==
 -->
