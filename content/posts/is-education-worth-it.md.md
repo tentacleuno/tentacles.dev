@@ -14,11 +14,13 @@ School ended early, and, as a result, most people got their applications (for Co
 
 Anyway, fast forward a few months, and we're in full swing: I signed up for Computer Science, so some of the work is about technology. But in all honesty, the majority of it ranges from *life education* (whatever that means) to creating a website with Wix.
 
-I've been programming for over 6 years, now.
+I've been programming for over 6 years, now. I know how the web works. I understand how to style with CSS, write semantic HTML, and use JavaScript... so why the *hell* are we using Wix? Who designs these courses?
+
+This is turning into a rant, but the central point is that, throughout my life, I've never really had anything to cater to my skills. Back in "high school", the IT class mostly focused on Excel. That didn't interest me at all. I wanted more from the computer. I didn't want to be tied to a proprietary suite of office tools geared towards the 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI0MTUxODVdfQ==
+eyJoaXN0b3J5IjpbNzQ2MzU2NTY5XX0=
 -->
