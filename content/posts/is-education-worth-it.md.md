@@ -18,11 +18,15 @@ I've been programming for over 6 years, now. I know how the web works. I underst
 
 This is turning into a rant, but the central point is that, throughout my life, I've never really had anything to cater to my skills. Back in "high school", the IT class mostly focused on Excel. That didn't interest me at all. I wanted more from the computer. I didn't want to be tied to a proprietary suite of office tools geared towards the consumer. *"Not my style."*
 
-So, with that in mind, I was hoping College would be different. "Finally something to tap into my skills," was the initial assumption. But that hasn't turned out to be true. If you take a look at the syllabus here, a lot of it has no relevance to computers at all. The tutors are helpful, but not really teaching what 
+So, with that in mind, I was hoping College would be different. "Finally something to tap into my skills," was the initial assumption. But that hasn't turned out to be true. If you take a look at the syllabus here, a lot of it has no relevance to computers at all. The tutors are helpful, but not really teaching what I want to learn.
+
+Now, I'm betting other people are in the same boat too. It's somewhat oppressive. You feel out of place. With nothing to encourage you to learn what **YOU** want to learn, you feel out of place. It starts to feel like a 'hobby' rather than something you'd like to get paid for in future. The education system is failing you.
+
+**This needs to change.**
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTY1ODk0NF19
+eyJoaXN0b3J5IjpbLTIwODM4MTU4NjFdfQ==
 -->
