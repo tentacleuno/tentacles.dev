@@ -3,7 +3,6 @@ title = "Is Education Worth It?"
 date = "2020-02-04"
 author = "Tentacles"
 description = "No more Golden Geese."
-draft = "true"
 +++
 
 So, as you may know, I've been in College for a few months now. At this point, I'm not really sure *what* I think about it. To explain what that means, let's go back in time.
@@ -24,11 +23,13 @@ Now, I'm betting other people are in the same boat too. It's somewhat oppressive
 
 **This needs to change.** For 6 years, I've been waiting for an actual education. I don't want to learn what *they* want me to learn. It's time for me to do my own thing.
 
-**Does this mean dropping out?** Hopefully not, but time will tell. 
+**Does this mean dropping out?** Hopefully not, but time will tell. A lot of successful people are dropouts, so it wouldn't be the end of the world.
+
+I'll update this blog as time goes on.
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzcyMzEwOF19
+eyJoaXN0b3J5IjpbLTEyMzc2MTgwMTVdfQ==
 -->
