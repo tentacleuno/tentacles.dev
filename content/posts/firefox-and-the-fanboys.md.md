@@ -5,6 +5,8 @@ author = "Tentacles"
 description = "Firefox can do no wrong."
 +++
 
+**UPDATE**: I've spoken to the Hacker News moderation team about this. While I can appreciate my comments were abrasive, it's still fair to point out how infactual information (in response to my comment) has been upvoted.
+
 
 Firefox has many fans. Some of them recognise that Firefox [has](https://www.reddit.com/r/firefox/comments/jybx2w/uh_why_is_firefox_showing_me_sponsored_links_in/) [made](https://www.reddit.com/r/firefox/comments/6n52gd/addonsmozillaorg_and_aboutaddons_disable_google/dk7bqxw) [a](https://techcrunch.com/2017/11/14/mozilla-terminates-its-deal-with-yahoo-and-makes-google-the-default-in-firefox-again/) [*lot*](https://www.reddit.com/r/firefox/comments/bkgfk0/an_open_letter_of_frustration/) [of](https://www.reddit.com/r/firefox/comments/3i5dqq/an_open_letter_from_a_concerned_user/) [mistakes](https://www.reddit.com/r/firefox/comments/5qjzie/i_cannot_continue_working_on_my_addons_anymore_im/).
 
@@ -22,5 +24,6 @@ Over time, more and more people are jumping to defend Firefox. People seem to as
 
 Sorry.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ4NzI0OTcsMTQ0NjEwMjU1XX0=
+eyJoaXN0b3J5IjpbLTg5MDY1NjEyMSwtMTk4NDg3MjQ5NywxND
+Q2MTAyNTVdfQ==
 -->
