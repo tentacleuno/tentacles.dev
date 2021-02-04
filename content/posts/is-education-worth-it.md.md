@@ -6,12 +6,15 @@ description = "Think about it. Read about it."
 draft = "true"
 +++
 
-So, as you may know, I've been in College for a few months now. At this point, I'm not really sure *what* I think about it. 
+So, as you may know, I've been in College for a few months now. At this point, I'm not really sure *what* I think about it. To explain what that means, let's go back in time.
 
-In my time at College, 
+The year is 2020. We're in July. Lockdown has crushed education in two. It's problematic, but nothing we can't overcome. Surely?
+
+School ended early, and, as a result, most people got their applications (for College) in early. We did the interview. *Yada yada yada.*
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODc2MjM4NV19
+eyJoaXN0b3J5IjpbMTI5MzQ5NDUxOF19
 -->
