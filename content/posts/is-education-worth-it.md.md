@@ -22,11 +22,11 @@ So, with that in mind, I was hoping College would be different. "Finally somethi
 
 Now, I'm betting other people are in the same boat too. It's somewhat oppressive. You feel out of place. With nothing to encourage you to learn what **YOU** want to learn, you feel out of place. It starts to feel like a 'hobby' rather than something you'd like to get paid for in future. The education system is failing you.
 
-**This needs to change.**
+**This needs to change.** For 6 years, me and many other people have been sitting patiently for an actual education. We don't want books. We don't want science, and we don't wante
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODM4MTU4NjFdfQ==
+eyJoaXN0b3J5IjpbNjY4ODU0NDg1XX0=
 -->
