@@ -16,11 +16,13 @@ Anyway, fast forward a few months, and we're in full swing: I signed up for Comp
 
 I've been programming for over 6 years, now. I know how the web works. I understand how to style with CSS, write semantic HTML, and use JavaScript... so why the *hell* are we using Wix? Who designs these courses?
 
-This is turning into a rant, but the central point is that, throughout my life, I've never really had anything to cater to my skills. Back in "high school", the IT class mostly focused on Excel. That didn't interest me at all. I wanted more from the computer. I didn't want to be tied to a proprietary suite of office tools geared towards the 
+This is turning into a rant, but the central point is that, throughout my life, I've never really had anything to cater to my skills. Back in "high school", the IT class mostly focused on Excel. That didn't interest me at all. I wanted more from the computer. I didn't want to be tied to a proprietary suite of office tools geared towards the consumer. *"Not my style."*
+
+So, with that in mind, I was hoping College would be different. "Finally something to tap into my skills," was the initial assumption. But that hasn't turned out to be true. If you take a look at the syllabus here, a lot of it has no relevance to computers at all. The tutors are helpful, but not really teaching what 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2MzU2NTY5XX0=
+eyJoaXN0b3J5IjpbLTUyOTY1ODk0NF19
 -->
