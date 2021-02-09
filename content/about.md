@@ -1,21 +1,18 @@
 +++
 title = "About"
 date = "2019-01-25"
-author = "Radek"
+author = "Tentacles"
 +++
 
-# Hi there
+I'm Tentacles. *Nice to meet you.*
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+**I like writing.**
+**I like programming.**
+**I like privacy.**
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+This blog is a totally new project, so I'm interested to see what it brings.
+In time, I'll most likely cross-post these posts on platforms such as Medium and dev.to.
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+I'm on [GitHub](https://github.com/tentacleuno), too.
 
-The theme includes:
-
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-
-So, there you have it... enjoy!
+Please only contact me in an emergency. My trust in people has withered.
